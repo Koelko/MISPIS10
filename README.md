@@ -32,7 +32,7 @@ UML Диаграммы
 ![(diagrams/Student.jpg)](https://github.com/Koelko/MISPIS10/blob/main/diagrams/Student.jpg)
 
 #### Преподаватель
-![(diagrams/Professor.jpg)](https://github.com/Koelko/MISPIS10/blob/main/diagrams/Professort.jpg)
+![(diagrams/Professor.jpg)](https://github.com/Koelko/MISPIS10/blob/main/diagrams/Professor.jpg)
 
 #### Декан
 ![(diagrams/Dean.jpg)](https://github.com/Koelko/MISPIS10/blob/main/diagrams/Dean.jpg)
