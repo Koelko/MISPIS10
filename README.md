@@ -4,7 +4,7 @@
 UML Диаграммы
 
 ### 1. Use Case Diagram (Диаграмма прецедентов)
-![Use Case Diagram](diagrams/Use%20Case%20Diagram%201.jpg)
+![(diagrams/Use%20Case%20Diagram%201.jpg)](https://github.com/Koelko/MISPIS10/blob/main/diagrams/Use%20Case%20Diagram1.jpg)
 
 ### 2. Class Diagram (Диаграмма классов) - исходная
 ![Class Diagram](diagrams/class-diagram.png)
