@@ -3,8 +3,8 @@
 Моделирование информационной системы университета с использованием UML.
 UML Диаграммы
 
-1. Use Case Diagram (Диаграмма прецедентов)
-![Use Case Diagram](diagrams/Use%20Case%20Diagram%201.png)
+### 1. Use Case Diagram (Диаграмма прецедентов)
+![Use Case Diagram](diagrams/Use%20Case%20Diagram%201.jpg)
 
 ### 2. Class Diagram (Диаграмма классов) - исходная
 ![Class Diagram](diagrams/class-diagram.png)
