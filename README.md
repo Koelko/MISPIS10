@@ -1,7 +1,7 @@
 ### Университетская информационная система
 ### Описание проекта
 Моделирование информационной системы университета с использованием UML.
-UML Диаграммы
+### UML Диаграммы
 
 ### 1. Use Case Diagram (Диаграмма прецедентов)
 ![(diagrams/Use%20Case%20Diagram%201.jpg)](https://github.com/Koelko/MISPIS10/blob/main/diagrams/Use%20Case%20Diagram1.jpg)
