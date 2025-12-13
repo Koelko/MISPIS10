@@ -42,4 +42,4 @@
 
 
 ## Выполнение
-!(https://github.com/Koelko/MISPIS10/blob/main/screen/workScreen.png)
+![(screen/workScreen.jpg)](https://github.com/Koelko/MISPIS10/blob/main/screen/workScreen.png)
